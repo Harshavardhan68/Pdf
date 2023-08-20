@@ -68,7 +68,6 @@ tomli
 tqdm
 twilio
 typing-inspect
-tiktoken
 typing_extensions
 tzdata
 urllib3
@@ -80,3 +79,4 @@ Werkzeug
 yarl
 zipp
 zstandard
+tiktoken
