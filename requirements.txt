@@ -79,4 +79,3 @@ Werkzeug
 yarl
 zipp
 zstandard
-tiktoken
